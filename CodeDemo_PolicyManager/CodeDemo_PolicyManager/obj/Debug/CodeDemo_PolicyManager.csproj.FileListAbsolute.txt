@@ -1,0 +1,4 @@
+D:\My Projects\PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager\bin\Debug\CodeDemo_PolicyManager.dll
+D:\My Projects\PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager\bin\Debug\CodeDemo_PolicyManager.pdb
+D:\My Projects\PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager\obj\Debug\CodeDemo_PolicyManager.dll
+D:\My Projects\PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager\obj\Debug\CodeDemo_PolicyManager.pdb

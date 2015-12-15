@@ -1,0 +1,10 @@
+D:\My Projects\PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager.Tests\bin\Debug\CodeDemo_PolicyManager.Tests.dll
+D:\My Projects\PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager.Tests\bin\Debug\CodeDemo_PolicyManager.Tests.pdb
+D:\My Projects\PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager.Tests\bin\Debug\CodeDemo_PolicyManager.dll
+D:\My Projects\PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\My Projects\PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager.Tests\bin\Debug\Moq.dll
+D:\My Projects\PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager.Tests\bin\Debug\CodeDemo_PolicyManager.pdb
+D:\My Projects\PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager.Tests\bin\Debug\Moq.xml
+D:\My Projects\PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager.Tests\obj\Debug\CodeDemo_PolicyManager.Tests.csprojResolveAssemblyReference.cache
+D:\My Projects\PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager.Tests\obj\Debug\CodeDemo_PolicyManager.Tests.dll
+D:\My Projects\PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager\CodeDemo_PolicyManager.Tests\obj\Debug\CodeDemo_PolicyManager.Tests.pdb
